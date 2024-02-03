@@ -18,5 +18,6 @@ public class HI {
         System.out.println("HI,gethub7");
         System.out.println("HI,gethub8 dev branch");
         System.out.println("HI,gethub8 master branch change");
+        System.out.println("HI,gethub8 dev branch change");
     }
 }
